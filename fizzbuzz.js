@@ -2,6 +2,7 @@
 
 function fizzBuzz(number) {
   if (number % 3 === 0 && number % 5 == 0) {
+    //parenthése ajouté
     return 'FizzBuzz';
   }
   if (number%3=== 0) {
